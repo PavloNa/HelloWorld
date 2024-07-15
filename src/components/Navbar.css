@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 5rem;
+}
+
+nav .title {
+    font-weight: bold;
+    padding-left: 5rem;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem;
+    margin: 0 0.5rem;
+    border-radius: 0.5rem;
+}
+
+nav button {
+    background-color: black;
+}
+
+.line {
+    border-top: 0.3rem solid rgba(128, 128, 128, 0.151);
+    border-radius: 5rem;
+    margin: auto;
+    width: 90%;
+}

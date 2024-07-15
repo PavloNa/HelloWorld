@@ -2,4 +2,10 @@
 
 This website is my online portfolio.
 
-https://www.freepik.com/free-ai-image/door-leading-magical-world_94543134.htm#fromView=search&page=1&position=26&uuid=8194ebad-d45c-4d56-ace1-f5b815953605
+https://dribbble.com/shots/23531329-kawsar-design-2024
+
+https://dribbble.com/shots/20753864-kawsar-design
+
+https://dribbble.com/shots/21788500-Personal-Portfolio-Website-Landing-Page
+
+https://dribbble.com/shots/24003762-Portfolio-Animation
